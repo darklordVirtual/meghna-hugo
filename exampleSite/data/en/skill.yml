@@ -8,7 +8,7 @@ skill:
   skill_item:
   - name: Fiber skjøting
     percent: 90%
-  - name: Analysis
+  - name: Nettverk tilpasset sd-anlegg og automasjon
     percent: 70%
   - name: Design
     percent: 80%
