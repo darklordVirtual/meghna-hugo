@@ -8,5 +8,5 @@ banner:
   content: Søker du etter it teknisk kompetanse?
   button:
     enable: true
-    label: Explore Us
+    label: Utforsk
     link: "#services"
